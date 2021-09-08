@@ -51,12 +51,12 @@ O sinal de controle varia entre -100 e 100, onde:
 Temperatura de Referência medida pelo Potenciômetro e Histerese definida em 4°C.
 
 #### Temperaturas
-![on_off_temp](/img/on_off_temp.png)
+![on_off_temp](/img/onoff_temp.png)
 
 ![on_off_temp_sub](/img/legenda_temp.png)
 
 #### Sinal de Controle
-![on_off_control](/img/on_off_control.png)
+![on_off_control](/img/onoff_control.png)
 
 ![on_off_control_sub](/img/legenda_controle.png)
 
@@ -65,11 +65,11 @@ Temperatura de Referência medida pelo Potenciômetro e Histerese definida em 4�
 Temperatura de Referência medida pelo Potenciômetro
 
 #### Temperaturas
-![pid_temp](/img/pid_temp.png)
+![pid_temp](/img/pid_temperature.png)
 
 ![pid_temp_sub](/img/legenda_temp.png)
 
 #### Sinal de Controle
-![pid_control](/img/pid_control.png)
+![pid_control](/img/pid_controle.png)
 
 ![pid_control_sub](/img/legenda_controle.png)
